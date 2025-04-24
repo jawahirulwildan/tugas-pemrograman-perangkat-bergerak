@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.DailyTaskManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary color -->
+        <item name="colorPrimary">@color/blue_pastel</item>
+        <item name="colorPrimaryVariant">@color/blue_pastel_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <!-- Surface color -->
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@android:color/black</item>
+
+        <!-- Other UI elements -->
+        <item name="colorSecondary">@color/blue_pastel_secondary</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+    </style>
+</resources>
